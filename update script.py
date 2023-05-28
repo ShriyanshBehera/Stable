@@ -2,4 +2,4 @@ from selfupdate import update
 
 update()
 
-##Old Text : OLD
+##New Text : NEW
